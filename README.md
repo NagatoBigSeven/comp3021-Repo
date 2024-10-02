@@ -1,3 +1,3 @@
-# comp3021-lab
+# comp3021lab
 
 zongmin ZHANG, 21041605
