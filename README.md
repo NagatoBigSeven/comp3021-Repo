@@ -1,3 +1,3 @@
 # comp3021-Repo
 
-Zongmin ZHANG, 21041605
+zongmin ZHANG, 21041605
