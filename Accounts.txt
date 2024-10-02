@@ -1,0 +1,64 @@
+1, CUSTOMER, Alice Johnson, 23457890, [35 45], 2, Female, alice.johnson@example.com
+2, CUSTOMER, Bob Smith, 23457867, [100 20], 1, Male, bob.smith@example.com
+3, CUSTOMER, Charlie Brown, 23457888, [50 60], 2, Male, charlie.brown@example.com
+4, CUSTOMER, Dana White, 23457899, [70 80], 1, Female, dana.white@example.com
+5, CUSTOMER, Evan Green, 23457866, [15 25], 2, Male, evan.green@example.com
+6, CUSTOMER, Fiona Lee, 23457855, [90 10], 1, Female, fiona.lee@example.com
+7, CUSTOMER, George Black, 23457844, [40 50], 2, Male, george.black@example.com
+8, CUSTOMER, Hannah Adams, 23457833, [30 70], 1, Female, hannah.adams@example.com
+9, CUSTOMER, Ian Wright, 23457822, [65 35], 2, Male, ian.wright@example.com
+10, CUSTOMER, Julia Taylor, 23457811, [20 90], 1, Female, julia.taylor@example.com
+11, CUSTOMER, Kevin Brown, 23457800, [10 30], 2, Male, kevin.brown@example.com
+12, CUSTOMER, Lily Wilson, 23457987, [80 20], 1, Female, lily.wilson@example.com
+13, CUSTOMER, Mike Davis, 23457976, [55 45], 2, Male, mike.davis@example.com
+14, CUSTOMER, Nora Garcia, 23457965, [25 75], 1, Female, nora.garcia@example.com
+15, CUSTOMER, Oliver Martinez, 23457954, [45 55], 2, Male, oliver.martinez@example.com
+16, CUSTOMER, Pam Robinson, 23457943, [60 40], 1, Female, pam.robinson@example.com
+17, CUSTOMER, Quinn Clark, 23457932, [22 78], 2, Male, quinn.clark@example.com
+18, CUSTOMER, Rachel Lewis, 23457921, [75 25], 1, Female, rachel.lewis@example.com
+19, CUSTOMER, Sam Walker, 23457910, [12 88], 2, Male, sam.walker@example.com
+20, CUSTOMER, Tina Hall, 23457809, [85 15], 1, Female, tina.hall@example.com
+21, CUSTOMER, Bob Smith, 23457867, [100 20], 1, Male, bob@xmail.com
+
+22, RESTAURANT, Taco Stop, 89876234, [1005 295], SaiKung District, Street B
+23, RESTAURANT, Pizza Palace, 89876987, [1010 300], SaiKung District, Street C
+24, RESTAURANT, Burger Barn, 89876543, [1020 310], SaiKung District, Street D
+25, RESTAURANT, Sushi Corner, 89876456, [1030 320], SaiKung District, Street E
+26, RESTAURANT, Vegan Delight, 89876345, [1040 330], SaiKung District, Street F
+27, RESTAURANT, Curry House, 89876234, [1050 340], SaiKung District, Street G
+28, RESTAURANT, Noodle Nest, 89876123, [1060 350], SaiKung District, Street H
+29, RESTAURANT, BBQ Heaven, 89876012, [1070 360], SaiKung District, Street I
+30, RESTAURANT, Seafood Shack, 89875901, [1080 370], SaiKung District, Street J
+31, RESTAURANT, Italian Bistro, 89875890, [1090 380], SaiKung District, Street K
+32, RESTAURANT, French Cafe, 89875789, [1100 390], SaiKung District, Street L
+33, RESTAURANT, Greek Grill, 89875678, [1110 400], SaiKung District, Street M
+34, RESTAURANT, Mexican Wave, 89875567, [1120 410], SaiKung District, Street N
+35, RESTAURANT, Thai Terrace, 89875456, [1130 420], SaiKung District, Street O
+36, RESTAURANT, American Diner, 89875345, [1140 430], SaiKung District, Street P
+37, RESTAURANT, Chinese Chateau, 89875234, [1150 440], SaiKung District, Street Q
+38, RESTAURANT, Japanese Joint, 89875123, [1160 450], SaiKung District, Street R
+39, RESTAURANT, Middle Eastern Eats, 89875012, [1170 460], SaiKung District, Street S
+40, RESTAURANT, Fish & Chips Fry, 89874901, [1180 470], SaiKung District, Street T
+41, RESTAURANT, Steakhouse Supreme, 89874890, [1190 480], SaiKung District, Street U
+42, RESTAURANT, Taco Go, 89876765, [1000 290], SaiKung District, Street A
+
+43, RIDER, Emily C, 89891125, [1145 435], Female, 4, 7, 100
+44, RIDER, Michael P, 89891630, [1150 440], Male, 3, 6, 78
+45, RIDER, Laura D, 89892135, [1155 445], Female, 5, 9, 190
+46, RIDER, Jacob N, 89892640, [300 450], Male, 4, 8, 89
+47, RIDER, Olivia G, 89893145, [1165 455], Female, 3, 5, 67
+48, RIDER, Ethan S, 89893650, [1170 460], Male, 5, 10, 217
+49, RIDER, Sophia L, 89894155, [1175 465], Female, 4, 8, 98
+50, RIDER, Daniel K, 89894660, [80 470], Male, 3, 6, 56
+51, RIDER, Mia H, 89895165, [1200 490], Female, 4, 7, 178
+52, RIDER, Anthony R, 89895670, [10 480], Male, 3, 5, 28
+53, RIDER, Chloe B, 89896175, [1195 45], Female, 5, 9, 234
+54, RIDER, Joshua M, 89896680, [1200 490], Male, 4, 8, 123
+55, RIDER, Madison Y, 89897185, [1205 495], Female, 3, 6, 45
+56, RIDER, Noah Z, 89897690, [1210 500], Male, 5, 10, 345
+57, RIDER, Isabella T, 89898195, [215 505], Female, 4, 7, 156
+58, RIDER, Luke V, 89898600, [220 1510], Male, 3, 5, 34
+59, RIDER, Ava J, 89899105, [1225 1515], Female, 4, 8, 167
+50, RIDER, Logan P, 89899610, [1230 520], Male, 3, 6, 78
+51, RIDER, Lily S, 89900115, [1235 525], Female, 5, 9, 234
+52, RIDER, William Q, 89900620, [100 2530], Male, 4, 8, 712

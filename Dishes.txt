@@ -1,0 +1,100 @@
+1, Taco, "A traditional Mexican dish", 30.5, 22
+2, Pizza Margherita, "Classic pizza with mozzarella and tomato", 45.0, 22
+3, Beef Burger, "Juicy grilled beef patty with lettuce and tomato", 50.0, 23
+4, Sushi Platter, "Assorted sushi selection", 120.0, 24
+5, Vegan Curry, "Rich and creamy coconut curry with seasonal vegetables", 65.0, 25
+6, Lamb Biryani, "Slow-cooked lamb with basmati rice and spices", 70.0, 26
+7, Pad Thai, "Traditional Thai noodle dish with peanuts and lime", 55.0, 27
+8, BBQ Ribs, "Smoked ribs with a tangy barbecue sauce", 85.0, 28
+9, Seafood Pasta, "Pasta with shrimp mussels and calamari in tomato sauce", 90.0, 29
+10, Risotto, "Creamy Arborio rice with mushrooms and Parmesan cheese", 75.0, 30
+11, Caesar Salad, "Crisp romaine lettuce with Caesar dressing and croutons", 40.0, 31
+12, Moussaka, "Baked eggplant with minced meat and béchamel sauce", 65.0, 32
+13, Nachos, "Corn chips topped with cheese jalapeños and salsa", 35.0, 33
+14, Tom Yum Soup, "Spicy Thai soup with shrimp and mushrooms", 50.0, 34
+15, Apple Pie, "Classic dessert with a flaky crust and sweet apple filling", 30.0, 35
+16, Chocolate Cake, "Rich and moist chocolate cake", 40.0, 36
+17, Peking Duck, "Crispy duck served with pancakes and hoisin sauce", 95.0, 37
+18, Ramen, "Japanese noodle soup with pork and egg", 60.0, 38
+19, Falafel Wrap, "Chickpea falafel balls in a wrap with tahini sauce", 45.0, 39
+20, Fish and Chips, "Battered fish with crispy fries", 55.0, 40
+21, Steak, "Grilled sirloin steak with a side of mashed potatoes", 110.0, 41
+22, Quiche, "Savory pie filled with eggs cream and ham", 48.0, 42
+23, Creme Brulee, "Rich custard topped with caramelized sugar", 35.0, 22
+24, French Onion Soup, "Caramelized onion in beef broth with melted cheese", 42.0, 23
+25, Tiramisu, "Coffee-flavored Italian dessert", 38.0, 24
+26, Paella, "Spanish rice dish with seafood and saffron", 80.0, 25
+27, Cobb Salad, "American garden salad with chicken avocado and bacon", 50.0, 26
+28, Beef Stroganoff, "Beef in a creamy mushroom sauce", 70.0, 27
+29, Tacos Al Pastor, "Pork tacos with pineapple and onions", 35.0, 28
+30, Spaghetti Carbonara, "Pasta with eggs cheese bacon and black pepper", 55.0, 29
+31, Pho, "Vietnamese noodle soup with beef and herbs", 45.0, 30
+32, Baklava, "Sweet dessert pastry made of layers of filo filled with nuts", 30.0, 31
+33, Samosas, "Fried or baked pastry with a savory filling", 25.0, 32
+34, Dumplings, "Dough balls filled with meat vegetables or sweets", 40.0, 33
+35, Bruschetta, "Grilled bread rubbed with garlic and topped with tomatoes", 32.0, 34
+36, Gazpacho, "Cold Spanish tomato-based raw vegetable soup", 38.0, 35
+37, Roast Chicken, "Seasoned chicken roasted to perfection", 65.0, 36
+38, Lasagna, "Layered pasta dish with cheese and meat or vegetables", 70.0, 37
+39, Greek Salad, "Salad with feta cheese and olives", 45.0, 38
+40, Borscht, "Sour soup common in Eastern Europe made with beetroot", 35.0, 39
+41, Mango Sticky Rice, "Sweet Thai dessert made with rice and mango", 30.0, 40
+42, Korean BBQ, "Grilled marinated beef typical in Korean cuisine", 85.0, 41
+43, Aloo Gobi, "Spiced Indian dish of potatoes and cauliflower", 35.0, 42
+44, Pork Schnitzel, "Breaded and fried pork cutlet", 60.0, 22
+45, Oysters, "Fresh oysters served on the half shell", 120.0, 23
+46, Clam Chowder, "Creamy soup with clams potatoes and onions", 50.0, 24
+47, Lobster Roll, "Fresh lobster meat served on a toasted roll", 95.0, 25
+48, Chicken Parmesan, "Breaded chicken breast topped with marinara sauce and cheese", 55.0, 26
+49, Fettuccine Alfredo, "Pasta in a creamy cheese sauce", 45.0, 27
+50, Bento Box, "Assorted Japanese dishes served in a box", 65.0, 28
+51, Chicken Caesar Wrap, "Chicken Caesar salad in a wrap form", 40.0, 29
+52, Hummus Plate, "Creamy hummus served with pita and vegetables", 30.0, 30
+53, Churros, "Fried dough pastry served with chocolate sauce", 25.0, 31
+54, Beef Empanadas, "Pastry filled with seasoned beef", 35.0, 32
+55, Spinach Pie, "Pie filled with spinach and cheese", 40.0, 33
+56, Club Sandwich, "Layered sandwich with turkey bacon lettuce and tomato", 45.0, 34
+57, Goulash, "Hungarian stew of meat and vegetables seasoned with paprika", 50.0, 35
+58, Jerk Chicken, "Spicy grilled chicken dish from Jamaica", 60.0, 36
+59, Ratatouille, "French stewed vegetable dish", 45.0, 37
+60, Cannoli, "Sicilian pastry tubes filled with sweet cream", 25.0, 38
+61, Shrimp Cocktail, "Cooked shrimp served with a cocktail dipping sauce", 50.0, 39
+62, Fajitas, "Grilled meat served with vegetables and wraps", 55.0, 40
+63, Banh Mi, "Vietnamese sandwich with meat vegetables and condiments", 35.0, 41
+64, Apple Crisp, "Baked dessert of apples topped with a crisp crust", 30.0, 42
+65, Tonkatsu, "Breaded and fried pork cutlet Japanese style", 50.0, 22
+66, Gelato, "Italian style ice cream known for its rich flavor and density", 20.0, 23
+67, Pierogi, "Eastern European stuffed dumplings", 45.0, 24
+68, Shawarma, "Middle Eastern meat preparation where lamb chicken or beef is roasted", 40.0, 25
+69, Moules-Frites, "Mussels served with fries a Belgian specialty", 70.0, 26
+70, Bibimbap, "Korean rice dish with assorted mix-ins and chili paste", 55.0, 27
+71, Falafel Sandwich, "Middle Eastern chickpea fritters in a pita", 35.0, 28
+72, Pad See Ew, "Thai stir-fried noodles with soy sauce and vegetables", 45.0, 29
+73, Escargot, "Snails prepared with garlic butter and parsley", 65.0, 30
+74, Chicken Wings, "Fried chicken wings coated in various sauces", 30.0, 31
+75, Quesadilla, "Mexican dish consisting of a tortilla filled with cheese and other ingredients", 35.0, 32
+76, Gumbo, "Louisiana dish with strong flavors and seafood or chicken", 60.0, 33
+77, Tuna Tartare, "Raw tuna mixed with spices and avocado", 70.0, 34
+78, Dal Makhani, "Creamy Indian lentil stew", 40.0, 35
+79, Minestrone Soup, "Italian soup with vegetables beans and pasta or rice", 30.0, 36
+80, Arancini, "Italian stuffed rice balls coated with bread crumbs and deep fried", 45.0, 37
+81, Beef Wellington, "Beef fillet coated with pâté and duxelles then wrapped in puff pastry", 95.0, 38
+82, Croque Monsieur, "Baked or fried boiled ham and cheese sandwich", 30.0, 39
+83, Fish Tacos, "Soft tortilla with fried fish and toppings", 40.0, 40
+84, Matcha Ice Cream, "Ice cream flavored with finely ground matcha green tea", 20.0, 41
+85, Lamb Kofta, "Ground lamb mixed with spices and grilled on skewers", 50.0, 42
+86, Tomato Bruschetta, "Grilled bread topped with tomatoes and garlic", 25.0, 22
+87, Vegetable Biryani, "Spiced rice dish with mixed vegetables", 45.0, 23
+88, Duck Confit, "Duck leg slowly cooked in its own fat", 85.0, 24
+89, Pork Belly Bao, "Steamed buns filled with tender slow-cooked pork belly", 50.0, 25
+90, Beef Tartare, "Raw beef mixed with onions capers raw egg yolk and seasonings", 70.0, 26
+91, Chicken Souvlaki, "Skewered and grilled chicken served with pita and tzatziki", 45.0, 27
+92, Grilled Salmon, "Perfectly grilled salmon filet", 55.0, 28
+93, Beef Carpaccio, "Thinly sliced raw beef served with vinaigrette and arugula", 65.0, 29
+94, Lobster Bisque, "Smooth and creamy lobster soup", 75.0, 30
+95, Margherita Pizza, "Pizza with tomatoes mozzarella cheese and fresh basil", 40.0, 31
+96, Lamb Curry, "Slow-cooked lamb in a rich and spicy curry sauce", 65.0, 32
+97, Veggie Burger, "Burger made from beans and various vegetables", 30.0, 33
+98, Grilled Cheese Sandwich, "Classic sandwich with melted cheese between grilled bread", 20.0, 34
+99, Pastrami on Rye, "Sliced pastrami with mustard on rye bread", 50.0, 35
+100, Coconut Shrimp, "Shrimp coated in coconut batter and fried", 60.0, 36
