@@ -2,7 +2,7 @@ package base;
 
 public class TestLab2 {
 
-		public static void main(String args[]){
+		public static void main(String[] args){
 			
 			NoteBook nb = new NoteBook();
 			boolean b;
