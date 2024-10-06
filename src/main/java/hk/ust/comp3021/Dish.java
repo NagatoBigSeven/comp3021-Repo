@@ -1,4 +1,4 @@
-package base;
+package hk.ust.comp3021;
 import java.math.BigDecimal;
 public class Dish{
     private Long id;

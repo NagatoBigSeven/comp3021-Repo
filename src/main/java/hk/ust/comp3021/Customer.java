@@ -1,4 +1,4 @@
-package base;
+package hk.ust.comp3021;
 
 public class Customer extends Account {
     private Integer customerType;

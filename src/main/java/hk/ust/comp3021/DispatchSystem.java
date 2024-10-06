@@ -1,12 +1,12 @@
-package base;
-import base.rank.PendingOrderRank;
-import base.rank.CustomerPriorityRank;
-import base.rank.OrderCreateTimeRank;
-import base.rank.RestaurantToCustomerDistanceRank;
-import base.rank.TaskRank;
-import base.rank.RiderToRestaurantRank;
-import base.rank.RiderRatingRank;
-import base.rank.RiderMonthTaskCountRank;
+package hk.ust.comp3021;
+import hk.ust.comp3021.rank.PendingOrderRank;
+import hk.ust.comp3021.rank.CustomerPriorityRank;
+import hk.ust.comp3021.rank.OrderCreateTimeRank;
+import hk.ust.comp3021.rank.RestaurantToCustomerDistanceRank;
+import hk.ust.comp3021.rank.TaskRank;
+import hk.ust.comp3021.rank.RiderToRestaurantRank;
+import hk.ust.comp3021.rank.RiderRatingRank;
+import hk.ust.comp3021.rank.RiderMonthTaskCountRank;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -209,7 +209,7 @@ public class DispatchSystem{
     }
     /// Do not modify the method. You should use the method to output orders for us to check the correctness of your implementation.
     public void writeOrders(String fileName, List<Order> orders) throws IOException {
-        List<Order> orderedOrders = orders.stream().sorted(new Comparator<Order>() {
+        List<Order> orderedOrders = orders.stream().sorted(new Comparator<>() {
             @Override
             public int compare(Order o1, Order o2) {
                 return o1.getId().compareTo(o2.getId());
@@ -227,7 +227,7 @@ public class DispatchSystem{
     }
     /// Do not modify the method.
     public void writeAccounts(String fileName, List<Account> accounts) throws IOException {
-        List<Account> orderedAccounts = accounts.stream().sorted(new Comparator<Account>() {
+        List<Account> orderedAccounts = accounts.stream().sorted(new Comparator<>() {
             @Override
             public int compare(Account o1, Account o2) {
                 return o1.getId().compareTo(o2.getId());
@@ -243,7 +243,7 @@ public class DispatchSystem{
     }
     /// Do not modify the method.
     public void writeDishes(String fileName, List<Dish> dishes) throws IOException {
-        List<Dish> orderedDishes = dishes.stream().sorted(new Comparator<Dish>() {
+        List<Dish> orderedDishes = dishes.stream().sorted(new Comparator<>() {
             @Override
             public int compare(Dish o1, Dish o2) {
                 return o1.getId().compareTo(o2.getId());

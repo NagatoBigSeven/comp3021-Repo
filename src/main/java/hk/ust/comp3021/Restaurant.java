@@ -1,4 +1,4 @@
-package base;
+package hk.ust.comp3021;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -11,7 +11,7 @@ public class Restaurant extends Account {
         super(id, accountType, name, contactNumber, location);
         this.district = district;
         this.street = street;
-        this.dishes = new ArrayList<Dish>();
+        this.dishes = new ArrayList<>();
     }
     /// Do not modify this method.
     @Override

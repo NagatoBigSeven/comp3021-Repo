@@ -1,4 +1,4 @@
-package base;
+package hk.ust.comp3021;
 
 public class Rider extends Account {
     private String gender;

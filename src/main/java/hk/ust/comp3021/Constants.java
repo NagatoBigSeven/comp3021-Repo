@@ -1,4 +1,4 @@
-package base;
+package hk.ust.comp3021;
 public class Constants{
     /// General constants.
     // The time limit of delivery is all 30 min, since the created time of the order.

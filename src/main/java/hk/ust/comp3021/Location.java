@@ -1,4 +1,4 @@
-package base;
+package hk.ust.comp3021;
 import static java.lang.Math.sqrt;
 import static java.lang.Math.pow;
 public class Location{

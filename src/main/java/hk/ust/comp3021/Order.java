@@ -1,4 +1,4 @@
-package base;
+package hk.ust.comp3021;
 import java.util.List;
 public class Order{
     private Long id;
