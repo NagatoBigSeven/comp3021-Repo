@@ -7,4 +7,6 @@ public class TextNote extends Note{
         this.content = content;
     }
     public String getContent(){return content;}
+    @Override
+    public String toString(){return "TextNote: " + super.toString() + "\t" + (content != null && content.contains(".") ? content.split("\\.")[0].length() >= 29 ? content.split("\\.")[0].substring(0, 29) + "." : content.split("\\.")[0] + "." : "");}
 }

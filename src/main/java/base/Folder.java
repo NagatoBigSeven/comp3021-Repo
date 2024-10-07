@@ -38,7 +38,10 @@ public class Folder implements Comparable<Folder>{
     public void sortNotes(){Collections.sort(notes);}
     private boolean contains(Note note, String keyword){
         if (note.getTitle().toUpperCase().contains(keyword))return true;
-        else if(note instanceof TextNote)return ((TextNote) note).getContent().toUpperCase().contains(keyword);
+        else if(note instanceof TextNote){
+            if(((TextNote) note).getContent() == null)return false;
+            return ((TextNote) note).getContent().toUpperCase().contains(keyword);
+        }
         else return false;
     }
     public List<Note> searchNotes(String keywords){

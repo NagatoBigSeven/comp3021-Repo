@@ -51,4 +51,6 @@ public class NoteBook{
         }
         return noteBookSearchedNotes;
     }
+    public boolean createNote(String folderName, String title){return createImageNote(folderName, title);}
+    public boolean createNote(String folderName, String title, String content){return createTextNote(folderName, title, content);}
 }

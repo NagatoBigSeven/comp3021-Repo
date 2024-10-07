@@ -25,5 +25,9 @@ public class Note implements Comparable<Note>{
         return Objects.hashCode(title);
     }
     @Override
-    public int compareTo(Note other){return -date.compareTo(other.date);}
+    public int compareTo(Note other){
+        if(this instanceof TextNote && other instanceof ImageNote)return -1;
+        if(this instanceof ImageNote && other instanceof TextNote)return 1;
+        return title.compareTo(other.title);
+    }
 }
