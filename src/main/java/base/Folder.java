@@ -1,11 +1,15 @@
 package base;
+import java.io.Serial;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Objects;
-public class Folder implements Comparable<Folder>{
+import java.io.Serializable;
+public class Folder implements Comparable<Folder>, Serializable{
     private ArrayList<Note> notes;
     private String name;
+    @Serial
+    private final static long serialVersionUID = 1L;
     public Folder(String name){
         notes = new ArrayList<>();
         this.name = name;
