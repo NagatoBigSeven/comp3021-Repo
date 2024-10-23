@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Objects;
 import java.io.Serializable;
-public class Folder implements Comparable<Folder>, Serializable{
+public class Folder implements Comparable<Folder>, Serializable, Cloneable{
     private ArrayList<Note> notes;
     private String name;
     @Serial
@@ -39,6 +39,28 @@ public class Folder implements Comparable<Folder>, Serializable{
     }
     @Override
     public int compareTo(Folder other){return name.compareTo(other.name);}
+    @Override
+    protected Folder clone(){
+        try{
+            Folder clone = (Folder)super.clone();
+            clone.notes = new ArrayList<>();
+            for(Note note: notes){
+                if(note instanceof TextNote textnote){
+                    clone.notes.add(new TextNote(textnote));
+                }
+                else if(note instanceof ImageNote imageNote){
+                    clone.notes.add(new ImageNote(imageNote));
+                }
+                else{
+                    clone.notes.add(new Note(note));
+                }
+            }
+            return clone;
+        }
+        catch(CloneNotSupportedException e){
+            throw new AssertionError();
+        }
+    }
     public void sortNotes(){Collections.sort(notes);}
     private boolean contains(Note note, String keyword){
         if (note.getTitle().toUpperCase().contains(keyword))return true;

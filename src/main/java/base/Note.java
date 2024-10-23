@@ -14,6 +14,10 @@ public class Note implements Comparable<Note>, Serializable{
         this.title = title;
         ++counter;
     }
+    public Note(Note other){
+        this.date = other.date;
+        this.title = other.title;
+    }
     public Date getDate(){return date;}
     public String getTitle(){return title;}
     @Override
