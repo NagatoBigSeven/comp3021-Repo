@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="base.Lab8Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-10-30T16:15:24" hostname="Nagatos-MacBook-Pro.local" time="0.009">
+  <properties/>
+  <testcase name="iter()" classname="base.Lab8Test" time="0.007"/>
+  <testcase name="peek()" classname="base.Lab8Test" time="0.001"/>
+  <testcase name="poll()" classname="base.Lab8Test" time="0.0"/>
+  <testcase name="size()" classname="base.Lab8Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
