@@ -1,0 +1,30 @@
+plugins {
+    id 'java-library'
+    id 'com.adarshr.test-logger' version '4.0.0'
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+version = '1.2.1'
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.7.1'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+tasks.named('test', Test) {
+    useJUnitPlatform()
+    maxHeapSize = '4G'
+    jvmArgs '-XX:MaxMetaspaceSize=4G'
+    testlogger {
+        slowThreshold 10
+    }
+}

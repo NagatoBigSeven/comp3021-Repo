@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hk.ust.comp3021.ArrayUtilsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-11-21T14:10:18" hostname="Nagatos-MacBook-Pro.local" time="13.532">
+  <properties/>
+  <testcase name="testMap()" classname="hk.ust.comp3021.ArrayUtilsTest" time="0.064"/>
+  <testcase name="testPrefixSum()" classname="hk.ust.comp3021.ArrayUtilsTest" time="0.099"/>
+  <testcase name="benchSeqPrefixSum()" classname="hk.ust.comp3021.ArrayUtilsTest" time="5.955"/>
+  <testcase name="benchParMap()" classname="hk.ust.comp3021.ArrayUtilsTest" time="0.553"/>
+  <testcase name="benchSeqMap()" classname="hk.ust.comp3021.ArrayUtilsTest" time="5.443"/>
+  <testcase name="benchParPrefixSum()" classname="hk.ust.comp3021.ArrayUtilsTest" time="1.416"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
