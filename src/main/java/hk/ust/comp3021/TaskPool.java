@@ -55,7 +55,7 @@ public class TaskPool{
       notifyAll();
       //throw new UnsupportedOperationException();
     }
-    public void terminate(){
+    public synchronized void terminate(){
       // part 3: task pool
       terminated = true;
       //throw new UnsupportedOperationException();
@@ -96,7 +96,7 @@ public class TaskPool{
     }
     //throw new UnsupportedOperationException();
   }
-  public synchronized void terminate() {
+  public void terminate() {
     queue.terminate();
     for (Thread thread : workers) {
       try {
